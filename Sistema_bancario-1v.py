@@ -1,6 +1,7 @@
 menu = """
 
 Bem-vindo ao Seu Banco
+Escolha a transação desejada:
 
 [d] Depositar
 [s] Sacar
